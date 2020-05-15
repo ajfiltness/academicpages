@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Ashleigh Filtness"
+title                    : "Ashleigh"
 title_separator          : "-"
 name                     : &name "Ashleigh Filtness"
 description              : &description "Lecturer in Transport Safety"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashleigh Filtness"
+  name             : 
   avatar           : "https://www.lboro.ac.uk/media/wwwlboroacuk/content/lds/photos/schoolstaff/academicandresearch/Ashleigh%20Filtness.jpg"
   bio              : "Lecturer in Transport Safety"
   location         : "UK/AU"
@@ -88,8 +88,8 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.co.uk/citations?user=b67AsIQAAAAJ&hl=en"
   email            :
-  researchgate     :  "https://www.researchgate.net/profile/Ashleigh_Filtness"
-  uri              :  "www.ashleighfiltness.net
+  researchgate     : "https://www.researchgate.net/profile/Ashleigh_Filtness"
+  uri              : "www.ashleighfiltness.net
   bitbucket        :
   codepen          :
   dribbble         :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : # "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0001-7357-0344"
