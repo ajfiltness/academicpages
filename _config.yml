@@ -11,9 +11,9 @@ title                    : "Ashleigh Filtness"
 title_separator          : "-"
 name                     : &name "Ashleigh Filtness"
 description              : &description "Lecturer in Transport Safety"
-url                      : https://ajfiltness.github.io/academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ajfiltness.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ajfiltness/academicpages"
+repository               : "ajfiltness/ajfiltness.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -89,7 +89,7 @@ author:
   googlescholar    : "https://scholar.google.co.uk/citations?user=b67AsIQAAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Ashleigh_Filtness"
-  uri              :
+  uri              :  "www.ashleighfiltness.net
   bitbucket        :
   codepen          :
   dribbble         :
