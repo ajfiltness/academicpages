@@ -9,13 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# **A ![](RackMultipart20200517-4-1vwlcnk_html_a554ebd2a1079672.jpg) shleigh Filtness**
-**Ph.D, BSc (hons), DPS, CBiol**
-
-| **Email:** [Ashleigh.Filtness@gmail.com](mailto:Ashleigh.Filtness@gmail.com) **Nationality:** British and Australian
- | **ORCID ID:** 0000-0001-7357-0344 |
-| --- | --- |
-
 **Personal summary**
 
 I am a driven and enthusiastic early career researcher with 6 years post Ph.D experience in road safety and sleep research, **57 peer reviewed publications (37 journal, 20 conference), over £2.4mil of research income** (including over £1 mil as principle investigator), 2 book chapters, over 40 government/industry reports, 21 conference presentations with peer reviewed abstracts and 13 invited presentations
