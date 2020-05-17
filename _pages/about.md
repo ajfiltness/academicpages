@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Ashleigh Filtnessan and I love......
+Hi, I'm Ashleigh Filtness.
