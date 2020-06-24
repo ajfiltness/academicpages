@@ -2,8 +2,8 @@
   "name": "Ashleigh Filtness",
   "short_name": "Ashleigh Filtness",
   "lang": "en-us",
-  "theme_color": "#EF525B",
-  "background_color": "#EF525B",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/images/icon_hu4f8ab371607c3a79349700d7bceeea31_25302_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",
